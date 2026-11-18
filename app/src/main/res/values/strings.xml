@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">PD4</string>
+
+    <string name="btn_memory_clear">MC</string>
+    <string name="btn_memory_recall">MR</string>
+    <string name="btn_memory_store">MS</string>
+    <string name="btn_memory_add">M+</string>
+    <string name="btn_memory_subtract">M-</string>
+
+    <string name="btn_backspace">←</string>
+    <string name="btn_clear_entry">CE</string>
+    <string name="btn_clear">C</string>
+    <string name="btn_negate">±</string>
+    <string name="btn_square_root">√</string>
+
+    <string name="btn_percent">%</string>
+    <string name="btn_reciprocal">1/x</string>
+    <string name="btn_divide">/</string>
+    <string name="btn_multiply">*</string>
+    <string name="btn_subtract">-</string>
+    <string name="btn_add">+</string>
+    <string name="btn_equals">=</string>
+    <string name="btn_decimal">.</string>
+
+    <string name="btn_digit_0">0</string>
+    <string name="btn_digit_1">1</string>
+    <string name="btn_digit_2">2</string>
+    <string name="btn_digit_3">3</string>
+    <string name="btn_digit_4">4</string>
+    <string name="btn_digit_5">5</string>
+    <string name="btn_digit_6">6</string>
+    <string name="btn_digit_7">7</string>
+    <string name="btn_digit_8">8</string>
+    <string name="btn_digit_9">9</string>
+
+    <string name="error_divide_by_zero">Cannot divide by zero</string>
+    <string name="error_invalid_input">Invalid input</string>
+</resources>
